@@ -3419,7 +3419,15 @@ p.test-aa {
         transform: translate(1px,-2px) rotate(-1deg)
     }
 }
-
+.logo-footer {
+    background-color: white;
+    width: 81%;
+    display: flex;
+    height: 93px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
 @media screen and (max-width: 768px) {
     .chat-mess {
         font-size:44px;
