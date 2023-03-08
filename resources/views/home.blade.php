@@ -437,9 +437,9 @@
         @endforeach
             <section class="section_one_banner">
                 <a href="#" class="thumb" title="{{$setting->company}}">
-                    <img class="lazyload" width="1920" height="212"
+                    <img class="lazyload" width="2114" height="212"
                         src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
-                        data-src="{{url('frontend/img/img_one_banner.jpg')}}"
+                        data-src="{{asset('frontend/img/bannertuan.jpg')}}"
                         alt="{{$setting->company}}">
                 </a>
             </section>
