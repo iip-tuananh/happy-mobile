@@ -188,7 +188,8 @@
 
 .section_deal_hot {
     margin-bottom: 35px;
-    background: linear-gradient(180deg, rgb(0 0 0) 0%, rgb(255 0 0) 50%, rgb(0 0 0) 100%);
+    background-color: #d70000;
+    /* background: linear-gradient(180deg, rgb(0 0 0) 0%, rgb(255 0 0) 50%, rgb(0 0 0) 100%); */
     padding: 35px 0 35px
 }
 
