@@ -723,9 +723,9 @@ a:hover {
 }
 
 header {
-    /* background: #8b0007; */
-    background: rgb(158,23,23);
-    background: linear-gradient(180deg, rgb(6 0 0) 0%, rgba(217,21,21,1) 52%, rgba(255,0,0,1) 100%);
+    background: #d70000;
+    /* background: rgb(158,23,23); */
+    /* background: linear-gradient(180deg, rgb(6 0 0) 0%, rgba(217,21,21,1) 52%, rgba(255,0,0,1) 100%); */
 }
 
 header .topbar {
@@ -1578,8 +1578,8 @@ header .col-cart-account-wish .block-cart>a .info span .headerWishlistCount {
 
 .section_service {
     padding: 30px 0;
-    background: rgb(158,23,23);
-    background: linear-gradient(180deg, rgb(255 0 0) 0%, rgb(139 37 37) 52%, rgb(33 34 38) 100%);
+    background: #d70000;
+    /* background: linear-gradient(180deg, rgb(255 0 0) 0%, rgb(139 37 37) 52%, rgb(33 34 38) 100%); */
     /* background: linear-gradient(180deg,rgba(139,0,7,1) 0%,rgb(188 0 0) 50%,rgb(255 90 2) 100%); */
 }
 

@@ -229,7 +229,7 @@
                                 @endif
                                 @if ($setting->phone2)
                                     <div class="item">
-                                        TP.HCM - 
+                                        Địa chỉ 2:
                                         <a href="tel:{{$setting->phone2}}" title="{{$setting->phone2}}">
                                             {{$setting->phone2}}
                                         </a>
@@ -305,7 +305,7 @@
 <div id="copyright" class="copyright">
     <div class="container">
         <div class="wsp">
-            @ Bản quyền thuộc về Innovac
+            @ Bản quyền thuộc về  Happy Mobile - Thiên Đường Công Nghệ
             <span class="d-sm-inline-block d-none"> | </span>
             <span class="opacity1">
                 Cung cấp bởi
