@@ -49,7 +49,9 @@
              </div>
           </div>
           <div class="cart__btn-proceed-checkout-dt">
+            <a href="{{route('checkout')}}">
              <button onclick="window.location.href='{{route('checkout')}}'" type="button" class="button btn btn-default cart__btn-proceed-checkout" id="btn-proceed-checkout" title="Thanh toán">Thanh toán</button>
+            </a>
           </div>
        </div>
     </form>

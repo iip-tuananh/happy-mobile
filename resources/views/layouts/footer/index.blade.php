@@ -5,7 +5,7 @@
             <div class="swiper-slide">
                 <div class="icon">
                 <img class="lazyload" width="50" height="50" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="  
-                    data-src="{{url('frontend/img/icon_service_1.png')}}" alt="Innovac">
+                    data-src="{{url('frontend/img/icon_service_1.png')}}" alt="Happy-mobile">
                 </div>
                 <div class="info">
                 <h3>
@@ -19,7 +19,7 @@
             <div class="swiper-slide">
                 <div class="icon">
                 <img class="lazyload" width="50" height="50" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="  
-                    data-src="{{url('frontend/img/icon_service_2.png')}}" alt="Innovac">
+                    data-src="{{url('frontend/img/icon_service_2.png')}}" alt="Happy-mobile">
                 </div>
                 <div class="info">
                 <h3>
@@ -33,7 +33,7 @@
             <div class="swiper-slide">
                 <div class="icon">
                 <img class="lazyload" width="50" height="50" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="  
-                    data-src="{{url('frontend/img/icon_service_3.png')}}" alt="Innovac">
+                    data-src="{{url('frontend/img/icon_service_3.png')}}" alt="Happy-mobile">
                 </div>
                 <div class="info">
                 <h3>
@@ -47,7 +47,7 @@
             <div class="swiper-slide">
                 <div class="icon">
                 <img class="lazyload" width="50" height="50" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="  
-                    data-src="{{url('frontend/img/icon_service_4.png')}}" alt="Innovac">
+                    data-src="{{url('frontend/img/icon_service_4.png')}}" alt="Happy-mobile">
                 </div>
                 <div class="info">
                 <h3>
@@ -121,7 +121,7 @@
                         <img class="lazyload" width="218" height="29"
                             src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
                             data-src="{{$setting->logo}}"
-                            alt="Innovac">
+                            alt="Happy-mobile">
                     </a>
                 </div>
                 <div class="slogan-footer">
@@ -247,25 +247,25 @@
                                     <img class="lazyload" width="67" height="34"
                                         src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
                                         data-src="{{url('frontend/img/icon_payment_1.png')}}"
-                                        alt="Innovac">
+                                        alt="Happy-mobile">
                                 </div>
                                 <div class="item">
                                     <img class="lazyload" width="67" height="34"
                                         src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
                                         data-src="{{url('frontend/img/icon_payment_2.png')}}"
-                                        alt="Innovac">
+                                        alt="Happy-mobile">
                                 </div>
                                 <div class="item">
                                     <img class="lazyload" width="67" height="34"
                                         src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
                                         data-src="{{url('frontend/img/icon_payment_3.png')}}"
-                                        alt="Innovac">
+                                        alt="Happy-mobile">
                                 </div>
                                 <div class="item">
                                     <img class="lazyload" width="67" height="34"
                                         src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
                                         data-src="{{url('frontend/img/icon_payment_4.png')}}"
-                                        alt="Innovac">
+                                        alt="Happy-mobile">
                                 </div>
                             </div>
                         </div>

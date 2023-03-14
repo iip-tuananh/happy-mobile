@@ -36,7 +36,7 @@
 			<div class="logo logo--left ">
 				<h1 class="shop__name">
 					<a href="{{ route('home') }}">
-					Innovac
+					Happy-mobile
 					</a>
 				</h1>
 			</div>
@@ -63,7 +63,7 @@
 						<div class="logo logo--left ">
 							<h1 class="shop__name">
 								<a href="{{ route('home') }}">
-									Innovac
+									Happy-mobile
 								</a>
 							</h1>
 						</div>

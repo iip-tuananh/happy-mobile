@@ -174,9 +174,11 @@ function removeItem(e) {
                                                 <div class="text-right cart__totle"><span class="total-price">{{number_format($totalPrice,0,'','.')}}₫</span></div>
                                              </div>
                                           </div>
+                                          <a href="{{route('checkout')}}">
                                           <div class="cart__btn-proceed-checkout-dt">
                                              <button onclick="window.location.href='{{route('checkout')}}'" type="button" class="button btn btn-default cart__btn-proceed-checkout" id="btn-proceed-checkout" title="Thanh toán">Thanh toán</button>
                                           </div>
+                                       </a>
                                        </div>
                                     </div>
                                  </div>
@@ -233,9 +235,11 @@ function removeItem(e) {
                                        <div class="text-right cart__totle"><span class="total-price">{{number_format($totalPrice,0 ,'',',.')}}₫</span></div>
                                     </div>
                                  </div>
+                                 <a href="{{route('checkout')}}">
                                  <div class="cart__btn-proceed-checkout-dt">
                                     <button href="{{route('checkout')}}" type="button" class="button btn btn-default cart__btn-proceed-checkout" id="btn-proceed-checkout" title="Thanh toán">Thanh toán</button>
                                  </div>
+                              </a>
                               </div>
                            </form>
                         </div>
