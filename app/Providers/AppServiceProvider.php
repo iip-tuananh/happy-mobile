@@ -57,7 +57,7 @@ class AppServiceProvider extends ServiceProvider
             $typeCate = TypeProduct::where('status',1)->orderBy('id','asc')->get(['name','slug','cate_slug']);
             $categoryProduct = Category::with([
                 'typeCate' => function ($query) {
-                    $query->with(['typetwo'])->where('status',1)->orderBy('id','DESC')->select('cate_id','id', 'name','avatar','slug','cate_slug'); 
+                    $query->with(['typetwo'])->where('status',1)->orderBy('id','ASC')->select('cate_id','id', 'name','avatar','slug','cate_slug'); 
                 }
             ])->where('status',1)->orderBy('id','asc')->get(['id','name','imagehome','avatar','slug'])->map(function ($query) {
                 $query->setRelation('product', $query->product->where('status', '=', 1)->take(14));
