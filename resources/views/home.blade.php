@@ -244,7 +244,7 @@
                         @foreach ($bannerAds as $banner)
                             <div class="col-md-4 col-12 block-item">
                                 <p  class="thumb image_hover" title="happy-mobile">
-                                    <img onclick="window.location.href='{{$banner->link}}'"width="377" height="207" class="lazy"
+                                    <img onclick="window.location.href='{{$banner->name}}'"width="377" height="207" class="lazy"
                                         src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="
                                         data-src="{{ $banner->image }}" alt="{{$setting->company}}">
                                 </p>
